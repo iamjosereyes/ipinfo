@@ -1,0 +1,26 @@
+{
+  "name": "ipinfo",
+  "version": "1.0.0",
+  "description": "Get information based on your ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjosereyes/ipinfo.git"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "josereyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamjosereyes/ipinfo/issues"
+  },
+  "homepage": "https://github.com/iamjosereyes/ipinfo#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
