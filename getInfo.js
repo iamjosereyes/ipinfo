@@ -2,7 +2,7 @@
 NodeJS: 
 - Retrieve your IP Address, Service Provider information and information about the zip code
 date: 7/19/23
-github: iamjosereys
+github: iamjosereyes
 email: jf.reyes925@gmail.com
 */
 
